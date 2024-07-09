@@ -17,7 +17,6 @@
             mission.textContent = goal;
             lists.appendChild(mission);
             box.value = ""; 
-            updateMainText();
         }
     }
 
